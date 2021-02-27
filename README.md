@@ -10,7 +10,7 @@ GFUR is a simple database I made to store GFUR so I can access it easier. I will
 
 gfur.xyz was coded from scratch in PHP, jQuery, CSS & SQL only using VSC and Xampp. No website builders were used in this project.  gfur.xyz is hosted on a custom hosting branch that I created myself to save money.
 
-## gfur.xyz Updates - v1.1 (27/02/21)
+## Updates - v1.1 (27/02/21)
 
 * Added Footer 
 * Added Lazy Load 
