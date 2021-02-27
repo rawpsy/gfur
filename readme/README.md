@@ -1,6 +1,6 @@
 # **_GFUR_**
 
-![Discord](https://img.shields.io/discord/733679602064556094) ![gfur.xyz](https://img.shields.io/website?down_color=red&down_message=gfur.xyz%20-%20offline&up_color=blue&up_message=gfur.xyz%20-%20online&url=http%3A%2F%2Fgfur.xyz) ![gfur.in](https://img.shields.io/website?down_color=red&down_message=gfur.in%20-%20offline&up_color=blue&up_message=gfur.in%20-%20online&url=http%3A%2F%2Fgfur.in)
+![Discord](https://img.shields.io/discord/733679602064556094) ![gfur.xyz](https://img.shields.io/website?down_color=red&down_message=gfur.xyz%20-%20offline&up_color=blue&up_message=gfur.xyz%20-%20online&url=http%3A%2F%2Fgfur.xyz)
 
 ### Basic Info
 
@@ -8,14 +8,7 @@ GFUR is a simple database I made to store GFUR so I can access it easier. I will
 
 ### Further Info
 
-gfur.in is the static version of gfur.xyz. gfur.xyz was coded from scratch in PHP, jQuery, CSS & SQL only using VSC and Xampp, gfur.in was coded from scratch in HTML & CSS. No website builders were used in this project and gfur.xyz is hosted on a custom hosting branch that I created myself to save money.
-
-## gfur.in Updates - v1.0 (27/02/21)
-
-* Created Static Site
-* Added gfur.xyz `<iframe>`
-* Added Basic CSS
-* Hosted Static Site
+gfur.xyz was coded from scratch in PHP, jQuery, CSS & SQL only using VSC and Xampp. No website builders were used in this project.  gfur.xyz is hosted on a custom hosting branch that I created myself to save money.
 
 ## gfur.xyz Updates - v1.1 (27/02/21)
 
